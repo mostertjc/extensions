@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "Mbit_IR_V2": "github:YahboomTechnology/Yahboom_IR_V2#a0709fa88a4222d3452e489894f608f50d369a07"
+        "Mbit_IR_V2": "github:YahboomTechnology/Yahboom_IR_V2#a0709fa88a4222d3452e489894f608f50d369a07",
+        "Tinybit": "github:YahboomTechnology/Tiny-bitLib#V2.0.2"
     },
     "files": [
         "main.blocks",
