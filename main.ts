@@ -1,3 +1,12 @@
+basic.showString("Mossie")
+music.play(music.tonePlayable(262, music.beat(BeatFraction.Whole)), music.PlaybackMode.UntilDone)
 basic.forever(function () {
-	
+    basic.showArrow(ArrowNames.North)
+    basic.pause(2000)
+    basic.showArrow(ArrowNames.East)
+    basic.pause(2000)
+    basic.showArrow(ArrowNames.South)
+    basic.pause(2000)
+    basic.showArrow(ArrowNames.West)
+    basic.pause(2000)
 })
